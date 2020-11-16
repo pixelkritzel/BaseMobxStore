@@ -1,0 +1,13 @@
+{
+  "name": "BaseMobxStore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Timo Zoeller <timo@pixelkritzel.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/uuid": "^8.3.0",
+    "mobx": "^6.0.4",
+    "typescript": "^4.0.5",
+    "uuid": "^8.3.1"
+  }
+}
